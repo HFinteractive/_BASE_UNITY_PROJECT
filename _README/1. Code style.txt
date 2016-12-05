@@ -5,4 +5,5 @@
 	
 	Use the file "81-C# Script-NewBehaviourScript.cs.txt" as a base for the Unity scripts
 		- Go to “YourUnityInstalationFolder\Unity\Editor\Data\Resources\ScriptTemplates\”
-		- Paste the file, you can rename the existing file if you want to use the default Unity file
+		- Paste the file "81-C# Script-NewBehaviourScript.cs.txt" in the mentioned folder.
+		- You can rename the existing file if you'd like to use it for other projects.
