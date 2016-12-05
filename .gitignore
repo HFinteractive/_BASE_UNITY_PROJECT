@@ -1,0 +1,81 @@
+# =============== #
+# Unity generated #
+# =============== #
+Build/
+Builds/
+Library/
+Temp/
+
+#[Bb]uild/
+#[Ll]ibrary/
+#[Tt]emp/
+#[Oo]bj/
+sysinfo.txt
+
+# =========== #
+# No Symlink  #
+# =========== #
+*.lnk
+
+# =========== #
+# No PDFs     #
+# =========== #
+*.pdf
+
+# =========== #
+# Video files #
+# =========== #
+*.mp4
+*.avi
+
+# ================ #
+# Streaming Assets #
+# ================ #
+[Aa]ssets/StreamingAssets/Video360/
+
+# =========== #
+# Zip		  #
+# =========== #
+*.zip
+*.rar
+*.7z
+
+# =========== #
+# Android	  #
+# =========== #
+*.apk
+
+# =========== #
+# Unity extra #
+# =========== #
+# Unity3D generated meta files
+*.pidb.meta
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+*.unitypackage
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+/*.vs
+/*.vs/
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db

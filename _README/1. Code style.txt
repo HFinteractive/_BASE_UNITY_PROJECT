@@ -1,0 +1,8 @@
+
+	Read the Happy Finish Code Style document in the next link
+		https://docs.google.com/document/d/1Vw6wDZPlazl1eHsVLec0Aaa8HYokYZASWyxPkAGpDEU/edit
+		
+	
+	Use the file "81-C# Script-NewBehaviourScript.cs.txt" as a base for the Unity scripts
+		- Go to “YourUnityInstalationFolder\Unity\Editor\Data\Resources\ScriptTemplates\”
+		- Paste the file, you can rename the existing file if you want to use the default Unity file
